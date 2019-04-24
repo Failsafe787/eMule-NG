@@ -21,7 +21,7 @@ eMule-NG is based on the latest version of eMule, the best P2P sotfware nowadays
 
 **This improved version of eMule allows you to do searches on eDonkey/eMule network as well as on the NewsGroups.** For example, you would spend about 10 hours on eMule, if everything goes fine, to download a 700 MB file. With NewsGroups you make it in 25 minutes!
 
-##The advantages of NewsGroups
+## The advantages of NewsGroups
 
 * **Continuous and anonymous download to a maximal speed**
 * **As easy to use as eMule**
